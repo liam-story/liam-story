@@ -4,6 +4,7 @@
 
 - <b>CompTIA A+</b>
 - <b>CompTIA Network+</b>
+<h3>WARNING: only use the following projects on yourself or someone you have EXPLICIT, written permission from. Doing otherwise is not only unethical, but also highly illegal!</h3>
 
 <h2>Powershell Projects</h2>
 
